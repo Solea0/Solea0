@@ -141,7 +141,7 @@
 
 ## Platforms We Audit On
 
-- **Sherlock** - Lead Senior Watson & active participation
+- **Sherlock** - Lead Senior Watson & Senior Watson
 - **Code4rena** - Top 10 ranked auditors (#6 & #7)
 - **Vigilseek** - Top 5 ranked auditor (#4)
 
