@@ -49,21 +49,21 @@
 
 <div align="left">
 
-**We're leveling up our audits to deliver max value at low cost. Here's the flow:**
+&nbsp;&nbsp;&nbsp;&nbsp;**We're leveling up our audits to deliver max value at low cost. Here's the flow:**
 
-**1️⃣ Discovery & Automated Scan (4-8h):** Scope lock + tools like Slither to spot quick issues.
+&nbsp;&nbsp;&nbsp;&nbsp;**1️⃣ Discovery & Automated Scan (4-8h):** Scope lock + tools like Slither to spot quick issues.
 
-**2️⃣ Manual Deep Dive (12-40h):** Line-by-line review for logic flaws & exploits.
+&nbsp;&nbsp;&nbsp;&nbsp;**2️⃣ Manual Deep Dive (12-40h):** Line-by-line review for logic flaws & exploits.
 
-**3️⃣ Validation & Polish (4-12h):** Test fixes + final report with mitigations.
+&nbsp;&nbsp;&nbsp;&nbsp;**3️⃣ Validation & Polish (4-12h):** Test fixes + final report with mitigations.
 
-**Total:** 3-10 days | From $800 | Public reports on GitHub.
+&nbsp;&nbsp;&nbsp;&nbsp;**Total:** 3-10 days | From $800 | Public reports on GitHub.
 
-**First 5 projects:** 🎁 **Heavy discounts + free if tiny!** Who's launching soon?
+&nbsp;&nbsp;&nbsp;&nbsp;**First 5 projects:** 🎁 **Heavy discounts + free if tiny!** Who's launching soon?
 
-&nbsp;&nbsp;&nbsp;&nbsp;[*Be the first to apply!*](https://discord.gg/X3sM7cPs)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Be the first to apply!*](https://discord.gg/X3sM7cPs)
 
-**Reward:** 10% commission for referrals. Let's grow the community! 🔥
+&nbsp;&nbsp;&nbsp;&nbsp;**Reward:** 10% commission for referrals. Let's grow the community! 🔥
 
 </div>
 
