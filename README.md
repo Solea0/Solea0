@@ -53,7 +53,7 @@
 💰 **First audit at very reasonable price**  
 🔒 **Complete security, low cost**
 
-*Be the first to apply!*
+[*Be the first to apply!*](https://discord.gg/X3sM7cPs)
 
 </div>
 
