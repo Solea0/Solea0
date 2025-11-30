@@ -33,27 +33,37 @@
 
 </div>
 
-### 💼 What We Do
+### 💼 Our Strategy
 
 <div align="center">
 
-| 🎯 Mission | 👥 Team | 📋 Approach |
-|:---:|:---:|:---:|
-| Secure blockchain | Top performers welcome | High quality |
-| World-class audits | Promoters compensated | Low cost |
-| Multiple platforms | | Multi-stage review |
+| 👥 **Team** | 📋 **Approach** |
+|:---:|:---:|
+| Top performers welcome | High quality reports |
+| Promoters compensated | Multi-stage review |
+| Top 10 ranked auditors | Low cost solutions |
 
 </div>
 
-### 🎁 First Audit Special
+### 🚨 Solea Audit Academy: Our Updated 3-Stage Process for Bulletproof Smart Contracts 🚨
 
-<div align="center">
+<div align="left">
 
-🚀 **New team, proven experts**  
-💰 **First audit at very reasonable price**  
-🔒 **Complete security, low cost**
+**We're leveling up our audits to deliver max value at low cost. Here's the flow:**
 
-[*Be the first to apply!*](https://discord.gg/X3sM7cPs)
+**1️⃣ Discovery & Automated Scan (4-8h):** Scope lock + tools like Slither to spot quick issues.
+
+**2️⃣ Manual Deep Dive (12-40h):** Line-by-line review for logic flaws & exploits.
+
+**3️⃣ Validation & Polish (4-12h):** Test fixes + final report with mitigations.
+
+**Total:** 3-10 days | From $800 | Public reports on GitHub.
+
+**First 5 projects:** 🎁 **Heavy discounts + free if tiny!** Who's launching soon?
+
+&nbsp;&nbsp;&nbsp;&nbsp;[*Be the first to apply!*](https://discord.gg/X3sM7cPs)
+
+**Reward:** 10% commission for referrals. Let's grow the community! 🔥
 
 </div>
 
