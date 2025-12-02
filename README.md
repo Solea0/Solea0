@@ -65,9 +65,9 @@
 
 **Senior Blockchain Security Researcher**
 
-- 💬 **Telegram**: [@glightspeed2](https://t.me/glightspeed2)
-- 🏆 **Sherlock**: [@montecristo](https://audits.sherlock.xyz/watson/montecristo) - **Lead Senior Watson (LSW)**
-- 🎯 **Code4rena**: [@montecristo](https://code4rena.com/@montecristo) - **#7 Overall Ranking**
+- <img src="https://audits.sherlock.xyz/favicon.ico" width="16" height="16" alt="Sherlock"/> **Sherlock**: [@montecristo](https://audits.sherlock.xyz/watson/montecristo) - **Lead Senior Watson (LSW)**
+- <img src="https://code4rena.com/favicon.ico" width="16" height="16" alt="Code4rena"/> **Code4rena**: [@montecristo](https://code4rena.com/@montecristo) - **#7 Overall Ranking**
+- <img src="https://telegram.org/favicon.ico" width="16" height="16" alt="Telegram"/> **Telegram**: [@glightspeed2](https://t.me/glightspeed2)
 - 📊 **Total Earnings**: 
   - **Code4rena**: $55,730.51
   - **Sherlock**: $91.03K
@@ -89,9 +89,9 @@
 
 **Blockchain Security Researcher**
 
-- 🐦 **Twitter/X**: [@bzpassersby](https://x.com/bzpassersby)
-- 🎯 **Code4rena**: [@oakcobalt](https://code4rena.com/@oakcobalt) - **#6 Ranking (2024)**
-- 🏆 **Sherlock**: [@oakcobalt](https://audits.sherlock.xyz/watson/oakcobalt)
+- <img src="https://code4rena.com/favicon.ico" width="16" height="16" alt="Code4rena"/> **Code4rena**: [@oakcobalt](https://code4rena.com/@oakcobalt) - **#6 Ranking (2024)**
+- <img src="https://audits.sherlock.xyz/favicon.ico" width="16" height="16" alt="Sherlock"/> **Sherlock**: [@oakcobalt](https://audits.sherlock.xyz/watson/oakcobalt)
+- <img src="https://x.com/favicon.ico" width="16" height="16" alt="X"/> **X (Twitter)**: [@bzpassersby](https://x.com/bzpassersby)
 - 📊 **Total Earnings**: 
   - **Code4rena**: $134,923.36
   - **Sherlock**: $133,530
@@ -119,9 +119,9 @@
 
 **Blockchain Security Researcher**
 
-- 🐦 **Twitter/X**: [@Tigerfrake](https://x.com/Tigerfrake)
-- 🔍 **Vigilseek**: [@Tigerfrake](https://www.vigilseek.com/user/Tigerfrake) - **#4 Overall Ranking**
-- 🏆 **Sherlock**: [@Tigerfrake](https://audits.sherlock.xyz/watson/Tigerfrake)
+- <img src="https://www.vigilseek.com/favicon.ico" width="16" height="16" alt="Vigilseek"/> **Vigilseek**: [@Tigerfrake](https://www.vigilseek.com/user/Tigerfrake) - **#4 Overall Ranking**
+- <img src="https://audits.sherlock.xyz/favicon.ico" width="16" height="16" alt="Sherlock"/> **Sherlock**: [@Tigerfrake](https://audits.sherlock.xyz/watson/Tigerfrake)
+- <img src="https://x.com/favicon.ico" width="16" height="16" alt="X"/> **X (Twitter)**: [@Tigerfrake](https://x.com/Tigerfrake)
 - 📊 **Total Earnings**: 
   - **Vigilseek**: $23,883 (includes Code4rena + Sherlock)
 - 🥇 **Notable Contest Wins**:
