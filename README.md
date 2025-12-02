@@ -33,37 +33,27 @@
 
 </div>
 
-### 💼 Our Strategy
+### 💼 What We Do
 
 <div align="center">
 
-| 👥 **Team** | 📋 **Approach** |
-|:---:|:---:|
-| Top performers welcome | High quality reports |
-| Promoters compensated | Multi-stage review |
-| Top 10 ranked auditors | Low cost solutions |
+| 🎯 Mission | 👥 Team | 📋 Approach |
+|:---:|:---:|:---:|
+| Secure blockchain | Top performers welcome | High quality |
+| World-class audits | Promoters compensated | Low cost |
+| Multiple platforms | | Multi-stage review |
 
 </div>
 
-### 🚨 Solea Audit Academy: Our Updated 3-Stage Process for Bulletproof Smart Contracts 🚨
+### 🎁 First Audit Special
 
-<div align="left">
+<div align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;**We're leveling up our audits to deliver max value at low cost. Here's the flow:**
+🚀 **New team, proven experts**  
+💰 **First audit at very reasonable price**  
+🔒 **Complete security, low cost**
 
-&nbsp;&nbsp;&nbsp;&nbsp;**1️⃣ Discovery & Automated Scan (4-8h):** Scope lock + tools like Slither to spot quick issues.
-
-&nbsp;&nbsp;&nbsp;&nbsp;**2️⃣ Manual Deep Dive (12-40h):** Line-by-line review for logic flaws & exploits.
-
-&nbsp;&nbsp;&nbsp;&nbsp;**3️⃣ Validation & Polish (4-12h):** Test fixes + final report with mitigations.
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Total:** 3-10 days | From $800 | Public reports on GitHub.
-
-&nbsp;&nbsp;&nbsp;&nbsp;**First 5 projects:** 🎁 **Heavy discounts + free if tiny!** Who's launching soon?
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Be the first to apply!*](https://discord.gg/X3sM7cPs)
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Reward:** 10% commission for referrals. Let's grow the community! 🔥
+[*Be the first to apply!*](https://discord.gg/X3sM7cPs)
 
 </div>
 
@@ -75,8 +65,9 @@
 
 **Senior Blockchain Security Researcher**
 
-- <img src="https://audits.sherlock.xyz/favicon.ico" width="16" height="16" alt="Sherlock"/> **Sherlock**: [@montecristo](https://audits.sherlock.xyz/watson/montecristo) - **Lead Senior Watson (LSW)**
-- <img src="https://code4rena.com/favicon.ico" width="16" height="16" alt="Code4rena"/> **Code4rena**: [@montecristo](https://code4rena.com/@montecristo) - **#7 Overall Ranking**
+- 💬 **Telegram**: [@glightspeed2](https://t.me/glightspeed2)
+- 🏆 **Sherlock**: [@montecristo](https://audits.sherlock.xyz/watson/montecristo) - **Lead Senior Watson (LSW)**
+- 🎯 **Code4rena**: [@montecristo](https://code4rena.com/@montecristo) - **#7 Overall Ranking**
 - 📊 **Total Earnings**: 
   - **Code4rena**: $55,730.51
   - **Sherlock**: $91.03K
@@ -98,8 +89,9 @@
 
 **Blockchain Security Researcher**
 
-- <img src="https://code4rena.com/favicon.ico" width="16" height="16" alt="Code4rena"/> **Code4rena**: [@oakcobalt](https://code4rena.com/@oakcobalt) - **#6 Ranking (2024)**
-- <img src="https://audits.sherlock.xyz/favicon.ico" width="16" height="16" alt="Sherlock"/> **Sherlock**: [@oakcobalt](https://audits.sherlock.xyz/watson/oakcobalt)
+- 🐦 **Twitter/X**: [@bzpassersby](https://x.com/bzpassersby)
+- 🎯 **Code4rena**: [@oakcobalt](https://code4rena.com/@oakcobalt) - **#6 Ranking (2024)**
+- 🏆 **Sherlock**: [@oakcobalt](https://audits.sherlock.xyz/watson/oakcobalt)
 - 📊 **Total Earnings**: 
   - **Code4rena**: $134,923.36
   - **Sherlock**: $133,530
@@ -127,8 +119,9 @@
 
 **Blockchain Security Researcher**
 
-- <img src="https://www.vigilseek.com/favicon.ico" width="16" height="16" alt="Vigilseek"/> **Vigilseek**: [@Tigerfrake](https://www.vigilseek.com/user/Tigerfrake) - **#4 Overall Ranking**
-- <img src="https://audits.sherlock.xyz/favicon.ico" width="16" height="16" alt="Sherlock"/> **Sherlock**: [@Tigerfrake](https://audits.sherlock.xyz/watson/Tigerfrake)
+- 🐦 **Twitter/X**: [@Tigerfrake](https://x.com/Tigerfrake)
+- 🔍 **Vigilseek**: [@Tigerfrake](https://www.vigilseek.com/user/Tigerfrake) - **#4 Overall Ranking**
+- 🏆 **Sherlock**: [@Tigerfrake](https://audits.sherlock.xyz/watson/Tigerfrake)
 - 📊 **Total Earnings**: 
   - **Vigilseek**: $23,883 (includes Code4rena + Sherlock)
 - 🥇 **Notable Contest Wins**:
